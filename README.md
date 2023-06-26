@@ -1,4 +1,4 @@
-![](static/proof.gif)
+![](https://github.com/SoldierMedic/assignment-2/blob/main/AIassignment2.gif)
 # Genetic Algorithm
 
 # Assignment-2
